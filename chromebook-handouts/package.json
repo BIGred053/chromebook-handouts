@@ -1,0 +1,22 @@
+{
+  "name": "chromebookhandout",
+  "version": "1.0.0",
+  "description": "Web-based GUI interface to walk volunteers through passing out Chromebooks to students and parents",
+  "main": "index.php",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-concat-css": "^2.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Evan McCullough",
+  "license": "MIT"
+}
